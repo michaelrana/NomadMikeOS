@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ==========================================
+# NomadMikeOS Local Rule Safeguards
+# ==========================================
+# This ensures your premium, paid parsing files 
+# never accidentally get pushed to public GitHub.
+
+extensions/premium_parsers/
+*.rules.json
+*.premium.py
+.env
