@@ -1,0 +1,29 @@
+{
+  "statement": {
+    "statement_id": "",
+    "lease_id": "",
+    "utility_account_id": "CONSERVICE-XXXXXXXXX",
+    "statement_type": "conservice_utility_statement",
+    "statement_date": "",
+    "due_date": "",
+    "source_document": {
+      "file_name": "",
+      "document_type": "pdf"
+    },
+    "totals": {
+      "total_current_charges": null,
+      "total_current_utility_charges_due": null,
+      "rent_and_lease_total": null
+    },
+    "flags": {
+      "estimated_read_present": false,
+      "manual_review_required": false
+    },
+    "review": {
+      "review_status": "pending",
+      "reviewed_by": "",
+      "review_date": "",
+      "notes": ""
+    }
+  }
+}
